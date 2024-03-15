@@ -32,7 +32,12 @@
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
+## Descripción del proyecto
+
 Repositorio donde se aloja el aprendizaje de git y github con AluraLATAM
+
+1. Accedemos Codespaces de github haciendo clic en la parte superior de github y presionando el punto (.).
+
 
 :construction: Proyecto en construcción :construction:
 
